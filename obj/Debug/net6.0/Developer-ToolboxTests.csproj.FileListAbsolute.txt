@@ -367,3 +367,4 @@ C:\Users\Miru\Desktop\MDS\Developer-ToolboxTests\obj\Debug\net6.0\refint\Develop
 C:\Users\Miru\Desktop\MDS\Developer-ToolboxTests\obj\Debug\net6.0\Developer-ToolboxTests.pdb
 C:\Users\Miru\Desktop\MDS\Developer-ToolboxTests\obj\Debug\net6.0\Developer-ToolboxTests.genruntimeconfig.cache
 C:\Users\Miru\Desktop\MDS\Developer-ToolboxTests\obj\Debug\net6.0\ref\Developer-ToolboxTests.dll
+C:\Users\Miru\Desktop\MDS\Developer-ToolboxTests\obj\Debug\net6.0\Developer-ToolboxTests.sourcelink.json
