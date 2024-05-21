@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Miru\\Desktop\\MDS\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj": {}
+    "C:\\Users\\alexandra\\source\\repos\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Miru\\Desktop\\MDS\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj": {
+    "C:\\Users\\alexandra\\source\\repos\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj",
+        "projectUniqueName": "C:\\Users\\alexandra\\source\\repos\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj",
         "projectName": "Developer-ToolboxTests",
-        "projectPath": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj",
-        "packagesPath": "C:\\Users\\Miru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-ToolboxTests\\obj\\",
+        "projectPath": "C:\\Users\\alexandra\\source\\repos\\Developer-ToolboxTests\\Developer-ToolboxTests.csproj",
+        "packagesPath": "C:\\Users\\alexandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandra\\source\\repos\\Developer-ToolboxTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Miru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Miru\\Desktop\\MDS\\Developer-Toolbox\\Developer-Toolbox.csproj": {
-                "projectPath": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-Toolbox\\Developer-Toolbox.csproj"
+              "C:\\Users\\alexandra\\source\\repos\\Developer-Toolbox\\Developer-Toolbox.csproj": {
+                "projectPath": "C:\\Users\\alexandra\\source\\repos\\Developer-Toolbox\\Developer-Toolbox.csproj"
               }
             }
           }
@@ -89,6 +89,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -98,17 +112,17 @@
         }
       }
     },
-    "C:\\Users\\Miru\\Desktop\\MDS\\Developer-Toolbox\\Developer-Toolbox.csproj": {
+    "C:\\Users\\alexandra\\source\\repos\\Developer-Toolbox\\Developer-Toolbox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-Toolbox\\Developer-Toolbox.csproj",
+        "projectUniqueName": "C:\\Users\\alexandra\\source\\repos\\Developer-Toolbox\\Developer-Toolbox.csproj",
         "projectName": "Developer-Toolbox",
-        "projectPath": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-Toolbox\\Developer-Toolbox.csproj",
-        "packagesPath": "C:\\Users\\Miru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Miru\\Desktop\\MDS\\Developer-Toolbox\\obj\\",
+        "projectPath": "C:\\Users\\alexandra\\source\\repos\\Developer-Toolbox\\Developer-Toolbox.csproj",
+        "packagesPath": "C:\\Users\\alexandra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alexandra\\source\\repos\\Developer-Toolbox\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Miru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alexandra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,10 +169,6 @@
               "target": "Package",
               "version": "[6.0.29, )"
             },
-            "Microsoft.EntityFrameworkCore.InMemory": {
-              "target": "Package",
-              "version": "[6.0.21, )"
-            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[6.0.29, )"
@@ -179,11 +189,11 @@
             },
             "Moq": {
               "target": "Package",
-              "version": "[4.20.70, )"
+              "version": "[4.7.1, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.8.0, )"
+              "version": "[2.7.1, )"
             }
           },
           "imports": [
@@ -197,6 +207,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
