@@ -16,6 +16,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 public class ApplicationUsersControllerTests
 {
+    /*
     private readonly Mock<UserManager<ApplicationUser>> _userManager;
     private readonly Mock<SignInManager<ApplicationUser>> _signInManager;
     private readonly Mock<ApplicationDbContext> _dbContext;

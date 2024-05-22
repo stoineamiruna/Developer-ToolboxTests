@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Developer_ToolboxTests
 {
-    internal class CategoriesControllerUnitTest
+    internal class AnswersControllerTest
     {
     }
 }
